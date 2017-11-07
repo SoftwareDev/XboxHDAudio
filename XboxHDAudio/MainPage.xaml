@@ -1,0 +1,18 @@
+﻿<Page
+    x:Class="XboxHDAudio.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:XboxHDAudio"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Margin="0,0,-325,0">
+        <TextBox Name="epid" HorizontalAlignment="Left" Margin="79,27,0,0" TextWrapping="Wrap" Text="Not available" VerticalAlignment="Top" RenderTransformOrigin="0.92,-1.375" Width="1000" AllowFocusOnInteraction="False"/>
+        <TextBox Name="ff" HorizontalAlignment="Left" Margin="79,64,0,0" TextWrapping="Wrap" Text="Not available" VerticalAlignment="Top" Width="230" AllowFocusOnInteraction="False"/>
+        <TextBox Name="cc" HorizontalAlignment="Left" Margin="79,101,0,0" TextWrapping="Wrap" Text="Not available" VerticalAlignment="Top" Width="230" AllowFocusOnInteraction="False"/>
+        <TextBox HorizontalAlignment="Left" Margin="0,25,0,0" TextWrapping="Wrap" Text="Id" VerticalAlignment="Top" BorderThickness="0" TextAlignment="Right" AllowFocusOnInteraction="False"/>
+        <TextBox HorizontalAlignment="Left" Margin="10,64,0,0" TextWrapping="Wrap" Text="Form" VerticalAlignment="Top" BorderThickness="0" TextAlignment="Center" AllowFocusOnInteraction="False"/>
+        <TextBox HorizontalAlignment="Left" Margin="0,101,0,0" TextWrapping="Wrap" Text="channels" VerticalAlignment="Top" RenderTransformOrigin="0.526,2.76" BorderThickness="0" TextAlignment="Right" Width="74" AllowFocusOnInteraction="False"/>
+    </Grid>
+</Page>

@@ -1,0 +1,2 @@
+MainPackage=S:\Projects\XboxHDAudio\Debug\XboxHDAudio\XboxHDAudio_1.0.0.0_Win32_Debug.appx
+SymbolPackage=S:\Projects\XboxHDAudio\AppPackages\XboxHDAudio\XboxHDAudio_1.0.0.0_Debug_Test\XboxHDAudio_1.0.0.0_Win32_Debug.appxsym
